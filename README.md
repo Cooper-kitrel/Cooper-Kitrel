@@ -7,9 +7,6 @@ Eager to apply analytical skills honed through athletics and academics to contri
 
 I enrolled in the TripleTen 4-month Business Analyst program, the curriculum covered Excel, Data Visualization (Tableau, Power BI), SQL, and more. It also involved numerous practical projects.
 
-## Hey 👋, 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin.com/in/cooperkitrel-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linkedin.com/in/cooperkitrel/)](https://www.linkedin.com/in/linkedin.com/in/cooperkitrel/) 
-
 
 Some facts about me:
 - 👀 I enjoy going to the gym, fishing, and sports.
