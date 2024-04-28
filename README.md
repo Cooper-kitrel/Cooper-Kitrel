@@ -18,6 +18,7 @@ I enrolled in the TripleTen 4-month Business Analyst program, the curriculum cov
 
 
 
+
 Some facts about me:
 - 👀 I enjoy going to the gym, fishing, and sports.
 - ⚡ I love baseball and used to play at the colligate level.
