@@ -7,16 +7,6 @@ Eager to apply analytical skills honed through athletics and academics to contri
 
 I enrolled in the TripleTen 4-month Business Analyst program, the curriculum covered Excel, Data Visualization (Tableau, Power BI), SQL, and more. It also involved numerous practical projects.
 
-## Hey 👋, This is Cooper Kitrel
-[![Gmail Badge](https://img.shields.io/badge/-cooperkitrel@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cooperkitrel@gmail.com)](mailto:cooperkitrel@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Cooper-Kitrel-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Cooper-Kitrel/)](https://www.linkedin.com/in/Cooper-Kitrel/) [![Github Badge](https://img.shields.io/badge/-Cooper-kitrel-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Cooper-kitrel/)](https://www.github.com/Cooper-kitrel/) 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Cooper-kitrel alt=Cooper-kitrel /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Cooper-kitrel&show_icons=true&include_all_commits=true)](https://github.com/Cooper-kitrel/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cooper-kitrel&layout=compact)](https://github.com/Cooper-kitrel/github-readme-stats)
-
-
 
 Some facts about me:
 - 👀 I enjoy going to the gym, fishing, and sports.
