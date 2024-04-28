@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-cooperkitrel@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cooperkitrel@gmail.com)](mailto:cooperkitrel@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Cooper-Kitrel-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Cooper-Kitrel/)](https://www.linkedin.com/in/Cooper-Kitrel/) 
 [![Github Badge](https://img.shields.io/badge/-Cooperkitrel-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Cooperkitrel/)](https://www.github.com/Cooperkitrel/) <p align='left'> 
-Hi! I'm an aspiring business analyst with a passion for leveraging data-driven insights to solve complex business challenges. My skills include Business analytics, data visualization, storytelling, and SQL.
+Hi! I'm an aspiring data analyst with a passion for leveraging data-driven insights to solve complex business challenges. My skills include Business analytics, data visualization, storytelling, and SQL.
 Eager to apply analytical skills honed through athletics and academics to contribute to organizational growth and success.
 
 I enrolled in the TripleTen 4-month Business Analyst program, the curriculum covered Excel, Data Visualization (Tableau, Power BI), SQL, and more. It also involved numerous practical projects.
