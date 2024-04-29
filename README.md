@@ -9,7 +9,8 @@ I enrolled in the TripleTen 4-month Business Analyst program, the curriculum cov
 
 
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="cooper-kitrel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/cooper-kitrel?trk=profile-badge">Cooper Kitrel</a></div>
+              
 
 
 
