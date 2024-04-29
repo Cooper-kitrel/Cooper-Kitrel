@@ -11,6 +11,9 @@ I enrolled in the TripleTen 4-month Business Analyst program, the curriculum cov
 
 ![Static Badge](https://img.shields.io/badge/GitHub-Cooper-kitrel)
 
+![Static Badge](https://img.shields.io/badge/GitHub-Cooperkitrel)
+
+
 
 Some facts about me:
 - 👀 I enjoy going to the gym, fishing, and sports.
