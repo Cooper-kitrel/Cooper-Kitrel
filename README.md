@@ -8,7 +8,7 @@
 [![Github Badge](https://img.shields.io/badge/-https://github.com/Cooperkitrel-grey?style=flat&logo=github&logoColor=white&link=https://github.com/https://github.com/Cooperkitrel/)](https://www.github.com/https://github.com/Cooperkitrel/) 
 
 ## Hey 👋, 
-[![Github Badge](https://img.shields.io/badge/-Cooperkitrel-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Cooperkitrel/)](https://www.github.com/Cooperkitrel/) 
+[![Github Badge](https://img.shields.io/badge/-Cooper-kitrel-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Cooper-kitrel/)](https://www.github.com/Cooper-kitrel/) 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Cooperkitrel alt=Cooperkitrel /> </p>
 
