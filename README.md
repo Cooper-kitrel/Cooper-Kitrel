@@ -7,6 +7,13 @@
 ## Hey 👋, 
 [![Github Badge](https://img.shields.io/badge/-https://github.com/Cooperkitrel-grey?style=flat&logo=github&logoColor=white&link=https://github.com/https://github.com/Cooperkitrel/)](https://www.github.com/https://github.com/Cooperkitrel/) 
 
+## Hey 👋, 
+[![Github Badge](https://img.shields.io/badge/-Cooperkitrel-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Cooperkitrel/)](https://www.github.com/Cooperkitrel/) 
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Cooperkitrel alt=Cooperkitrel /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Cooperkitrel&show_icons=true&include_all_commits=true)](https://github.com/Cooperkitrel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cooperkitrel&layout=compact)](https://github.com/Cooperkitrel/github-readme-stats)
 
 
 Hi! I'm an aspiring data analyst with a passion for leveraging data-driven insights to solve complex business challenges. My skills include Business analytics, data visualization, storytelling, and SQL.
