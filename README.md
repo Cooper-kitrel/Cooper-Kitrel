@@ -3,19 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Cooper-Kitrel-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Cooper-Kitrel/)](https://www.linkedin.com/in/Cooper-Kitrel/) 
 [![Github Badge](https://img.shields.io/badge/-Cooper-Kitrel-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Cooper-Kitrel/)](https://www.github.com/Cooper-Kitrel/) 
  [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Cooper-kitrel/Data_Projects_TripleTen/blob/main/README.md/)](https://github.com/Cooper-kitrel/Data_Projects_TripleTen/blob/main/README.md/) <p align='left'> 
-
-## Hey 👋, 
-[![Github Badge](https://img.shields.io/badge/-https://github.com/Cooperkitrel-grey?style=flat&logo=github&logoColor=white&link=https://github.com/https://github.com/Cooperkitrel/)](https://www.github.com/https://github.com/Cooperkitrel/) 
-
-## Hey 👋, 
-[![Github Badge](https://img.shields.io/badge/-Cooper-kitrel-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Cooper-kitrel/)](https://www.github.com/Cooper-kitrel/) 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Cooperkitrel alt=Cooperkitrel /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Cooperkitrel&show_icons=true&include_all_commits=true)](https://github.com/Cooperkitrel/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cooperkitrel&layout=compact)](https://github.com/Cooperkitrel/github-readme-stats)
-
-
 Hi! I'm an aspiring data analyst with a passion for leveraging data-driven insights to solve complex business challenges. My skills include Business analytics, data visualization, storytelling, and SQL.
 Eager to apply analytical skills honed through athletics and academics to contribute to organizational growth and success.
 
