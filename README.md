@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Cooper, an aspiring data analyst
 [![Gmail Badge](https://img.shields.io/badge/-cooperkitrel@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cooperkitrel@gmail.com)](mailto:cooperkitrel@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Cooper-Kitrel-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Cooper-Kitrel/)](https://www.linkedin.com/in/Cooper-Kitrel/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Cooper--Kitrel-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Cooper-Kitrel/)](https://www.linkedin.com/in/Cooper-Kitrel/) 
 [![Github Badge](https://img.shields.io/badge/-Cooper--Kitrel-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Cooper-Kitrel/)](https://www.github.com/Cooper-Kitrel/) 
  [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Cooper-kitrel/Data_Projects_TripleTen/blob/main/README.md/)](https://github.com/Cooper-kitrel/Data_Projects_TripleTen/blob/main/README.md/) <p align='left'> 
 Hi! I'm an aspiring data analyst with a passion for leveraging data-driven insights to solve complex business challenges. My skills include Business analytics, data visualization, storytelling, and SQL.
